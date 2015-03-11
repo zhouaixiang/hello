@@ -1,0 +1,4 @@
+C:\testing\traceanddebug\traceanddebug\bin\Debug\traceanddebug.exe
+C:\testing\traceanddebug\traceanddebug\bin\Debug\traceanddebug.pdb
+C:\testing\traceanddebug\traceanddebug\obj\x86\Debug\traceanddebug.exe
+C:\testing\traceanddebug\traceanddebug\obj\x86\Debug\traceanddebug.pdb

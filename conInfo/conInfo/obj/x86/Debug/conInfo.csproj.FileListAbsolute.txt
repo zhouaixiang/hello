@@ -1,0 +1,4 @@
+C:\testing\conInfo\conInfo\bin\Debug\conInfo.exe
+C:\testing\conInfo\conInfo\bin\Debug\conInfo.pdb
+C:\testing\conInfo\conInfo\obj\x86\Debug\conInfo.exe
+C:\testing\conInfo\conInfo\obj\x86\Debug\conInfo.pdb

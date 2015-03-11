@@ -1,0 +1,5 @@
+C:\testing\字符串比较\字符串比较\bin\Debug\字符串比较.exe
+C:\testing\字符串比较\字符串比较\bin\Debug\字符串比较.pdb
+C:\testing\字符串比较\字符串比较\obj\x86\Debug\字符串比较.exe
+C:\testing\字符串比较\字符串比较\obj\x86\Debug\字符串比较.pdb
+C:\Testing\字符串比较\字符串比较\obj\x86\Debug\字符串比较.csprojResolveAssemblyReference.cache
